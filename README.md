@@ -1,2 +1,2 @@
-# Visualization
-This repo is all about the Codes, Projects, Reports related to Visualization Course
+# visualization
+This repositoy is all about the codes, projects, reports,...
