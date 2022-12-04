@@ -1,0 +1,13 @@
+name: police_brutality
+title: police_brutality
+username:
+account: ssg01ssg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7807035
+bundleId: 6588643
+url: https://ssg01ssg.shinyapps.io/police_brutality/
+when: 1670144058.16657
+lastSyncTime: 1670144058.16657
+asMultiple: FALSE
+asStatic: FALSE
